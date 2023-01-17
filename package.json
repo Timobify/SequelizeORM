@@ -1,0 +1,23 @@
+{
+  "name": "sequelizeorm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timobify/SequelizeORM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timobify/SequelizeORM/issues"
+  },
+  "homepage": "https://github.com/Timobify/SequelizeORM#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
